@@ -109,3 +109,20 @@ ORDER BY Overall DESC
 |            304 | 55.60 |   72.00 | 40.032000000000 | Conservative            | Bill Wiggin            |
 |            396 | 60.70 |   65.90 | 40.001300000000 | Labour                  | Siobhain McDonagh      |
 +----------------+-------+---------+-----------------+-------------------------+------------------------+
+
+Of cabinet members:
+AND Candidate IN ('David Cameron', .....) etc
+
++----------------+-------+---------+-----------------+--------------+-------------------+
+| ConstituencyId | Maxy  | Turnout | Overall         | Party        | Candidate         |
++----------------+-------+---------+-----------------+--------------+-------------------+
+|            379 | 65.80 |   71.80 | 47.244400000000 | Conservative | Theresa May       |
+|            555 | 59.90 |   74.10 | 44.385900000000 | Conservative | Jeremy Hunt       |
+|            627 | 60.20 |   73.30 | 44.126600000000 | Conservative | David Cameron     |
+|            382 | 60.60 |   69.20 | 41.935200000000 | Conservative | John Whittingdale |
+|            564 | 58.60 |   70.20 | 41.137200000000 | Conservative | George Osborne    |
+|            581 | 58.70 |   70.00 | 41.090000000000 | Conservative | Greg Clark        |
+|            554 | 59.90 |   68.50 | 41.031500000000 | Conservative | Michael Gove      |
+|            484 | 59.70 |   67.90 | 40.536300000000 | Conservative | Philip Hammond    |
+|            496 | 56.90 |   70.90 | 40.342100000000 | Conservative | Michael Fallon    |
++----------------+-------+---------+-----------------+--------------+-------------------+
