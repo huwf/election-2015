@@ -1,0 +1,88 @@
++----------------+-------+---------+-----------------+-------------------------+------------------------+
+| ConstituencyId | Maxy  | Turnout | Overall         | Party                   | Candidate              |
++----------------+-------+---------+-----------------+-------------------------+------------------------+
+|            343 | 78.10 |   64.10 | 50.062100000000 | Labour                  | George Howarth         |
+|            368 | 81.30 |   61.10 | 49.674300000000 | Labour                  | Steven Rotheram        |
+|            370 | 75.20 |   64.20 | 48.278400000000 | Labour                  | Stephen Twigg          |
+|            285 | 65.90 |   72.90 | 48.041100000000 | Conservative            | Ranil Jayawardena      |
+|             76 | 74.50 |   64.40 | 47.978000000000 | Labour                  | Peter Dowd             |
+|            379 | 65.80 |   71.80 | 47.244400000000 | Conservative            | Theresa May            |
+|            218 | 77.60 |   59.80 | 46.404800000000 | Labour                  | Stephen Timms          |
+|            369 | 69.30 |   66.40 | 46.015200000000 | Labour                  | Luciana Berger         |
+|            255 | 69.10 |   66.10 | 45.675100000000 | Labour                  | Maria Eagle            |
+|            397 | 60.60 |   74.20 | 44.965200000000 | Conservative            | Paul Beresford         |
+|            240 | 62.90 |   71.30 | 44.847700000000 | Conservative            | Dominic Raab           |
+|            105 | 64.50 |   69.20 | 44.634000000000 | Speaker                 | John Bercow            |
+|            472 | 58.20 |   76.50 | 44.523000000000 | Conservative            | Zac Goldsmith          |
+|             15 | 60.80 |   73.10 | 44.444800000000 | Conservative            | Nick Herbert           |
+|            555 | 59.90 |   74.10 | 44.385900000000 | Conservative            | Jeremy Hunt            |
+|            409 | 61.00 |   72.50 | 44.225000000000 | Conservative            | Richard Benyon         |
+|            170 | 59.90 |   73.70 | 44.146300000000 | Scottish National Party | Stuart McDonald        |
+|            627 | 60.20 |   73.30 | 44.126600000000 | Conservative            | David Cameron          |
+|             36 | 63.20 |   69.60 | 43.987200000000 | Conservative            | Dominic Grieve         |
+|            336 | 58.40 |   74.80 | 43.683200000000 | Conservative            | Jeremy Wright          |
+|            205 | 59.00 |   73.90 | 43.601000000000 | Scottish National Party | Martin Docherty        |
+|            387 | 61.10 |   71.10 | 43.442100000000 | Conservative            | George Hollingbery     |
+|            284 | 60.70 |   71.10 | 43.157700000000 | Conservative            | Damian Hinds           |
+|            206 | 59.70 |   72.00 | 42.984000000000 | Scottish National Party | Stewart Hosie          |
+|            428 | 60.10 |   71.50 | 42.971500000000 | Conservative            | Andrea Leadsom         |
+|            215 | 65.00 |   66.10 | 42.965000000000 | Labour                  | Virendra Sharma        |
+|            623 | 63.40 |   67.70 | 42.921800000000 | Conservative            | Adam Afriyie           |
+|            594 | 68.90 |   62.10 | 42.786900000000 | Labour                  | Stella Creasy          |
+|            619 | 57.20 |   74.50 | 42.614000000000 | Conservative            | James Gray             |
+|            574 | 59.40 |   71.70 | 42.589800000000 | Conservative            | Tom Tugendhat          |
+|            139 | 59.10 |   71.80 | 42.433800000000 | Conservative            | Cheryl Gillan          |
+|             53 | 67.60 |   62.70 | 42.385200000000 | Labour                  | Frank Field            |
+|            237 | 58.30 |   72.70 | 42.384100000000 | Conservative            | Christopher Grayling   |
+|            312 | 56.90 |   74.00 | 42.106000000000 | Conservative            | Peter Lilley           |
+|             90 | 58.80 |   71.60 | 42.100800000000 | Conservative            | Eric Pickles           |
+|            367 | 67.40 |   62.40 | 42.057600000000 | Labour                  | Louise Ellman          |
+|            175 | 58.20 |   72.20 | 42.020400000000 | Conservative            | Chris Heaton-Harris    |
+|            382 | 60.60 |   69.20 | 41.935200000000 | Conservative            | John Whittingdale      |
+|            544 | 57.70 |   72.60 | 41.890200000000 | Conservative            | Nadhim Zahawi          |
+|            207 | 61.90 |   67.50 | 41.782500000000 | Scottish National Party | Chris Law              |
+|            242 | 57.70 |   72.40 | 41.774800000000 | Scottish National Party | John McNally           |
+|             40 | 59.50 |   70.20 | 41.769000000000 | Conservative            | Alistair Burt          |
+|            483 | 59.60 |   70.00 | 41.720000000000 | Conservative            | Nick Hurd              |
+|            316 | 57.30 |   72.80 | 41.714400000000 | Conservative            | Jeremy Quin            |
+|            147 | 58.10 |   71.70 | 41.657700000000 | Conservative            | Christopher Chope      |
+|            629 | 57.70 |   71.90 | 41.486300000000 | Conservative            | John Redwood           |
+|             37 | 57.30 |   72.40 | 41.485200000000 | Conservative            | Bob Stewart            |
+|            407 | 59.90 |   69.20 | 41.450800000000 | Conservative            | Desmond Swayne         |
+|            327 | 55.10 |   75.20 | 41.435200000000 | Scottish National Party | Ronnie Cowan           |
+|            635 | 56.10 |   73.70 | 41.345700000000 | Conservative            | Harriett Baldwin       |
+|            441 | 57.40 |   72.00 | 41.328000000000 | Conservative            | Jo Johnson             |
+|            302 | 58.50 |   70.60 | 41.301000000000 | Conservative            | John Howell            |
+|            564 | 58.60 |   70.20 | 41.137200000000 | Conservative            | George Osborne         |
+|            581 | 58.70 |   70.00 | 41.090000000000 | Conservative            | Greg Clark             |
+|            554 | 59.90 |   68.50 | 41.031500000000 | Conservative            | Michael Gove           |
+|            622 | 55.00 |   74.60 | 41.030000000000 | Conservative            | Steve Brine            |
+|            307 | 56.90 |   71.90 | 40.911100000000 | Conservative            | David Gauke            |
+|            161 | 56.50 |   72.40 | 40.906000000000 | Conservative            | Geoffrey Clifton-Brown |
+|            184 | 57.70 |   70.80 | 40.851600000000 | Conservative            | Claire Perry           |
+|            488 | 57.20 |   71.40 | 40.840800000000 | Conservative            | Alan Haselhurst        |
+|            266 | 59.80 |   68.20 | 40.783600000000 | Scottish National Party | Peter Grant            |
+|            634 | 57.00 |   71.50 | 40.755000000000 | Conservative            | Nigel Huddleston       |
+|            556 | 56.10 |   72.30 | 40.560300000000 | Conservative            | Nicholas Soames        |
+|            484 | 59.70 |   67.90 | 40.536300000000 | Conservative            | Philip Hammond         |
+|            490 | 55.60 |   72.90 | 40.532400000000 | Conservative            | John Glen              |
+|            219 | 55.60 |   72.90 | 40.532400000000 | Scottish National Party | Lisa Cameron           |
+|            195 | 56.60 |   71.60 | 40.525600000000 | Conservative            | Simon Hoare            |
+|            114 | 63.30 |   64.00 | 40.512000000000 | Labour                  | Harriet Harman         |
+|            286 | 58.10 |   69.70 | 40.495700000000 | Conservative            | Kit Malthouse          |
+|            605 | 57.00 |   71.00 | 40.470000000000 | Conservative            | Nus Ghani              |
+|            579 | 67.30 |   60.10 | 40.447300000000 | Labour                  | David Lammy            |
+|            626 | 57.50 |   70.30 | 40.422500000000 | Conservative            | Priti Patel            |
+|            408 | 57.00 |   70.90 | 40.413000000000 | Conservative            | Robert Jenrick         |
+|            553 | 57.40 |   70.40 | 40.409600000000 | Conservative            | Sam Gyimah             |
+|            331 | 60.20 |   67.10 | 40.394200000000 | Labour                  | Jeremy Corbyn          |
+|            496 | 56.90 |   70.90 | 40.342100000000 | Conservative            | Michael Fallon         |
+|            308 | 59.30 |   67.90 | 40.264700000000 | Conservative            | Oliver Dowden          |
+|            276 | 57.10 |   70.50 | 40.255500000000 | Conservative            | Anne Milton            |
+|            448 | 59.70 |   67.40 | 40.237800000000 | Conservative            | Rory Stewart           |
+|             39 | 56.10 |   71.60 | 40.167600000000 | Conservative            | Nadine Dorries         |
+|            188 | 56.60 |   70.90 | 40.129400000000 | Conservative            | Gary Streeter          |
+|             24 | 60.20 |   66.50 | 40.033000000000 | Scottish National Party | Eilidh Whiteford       |
+|            304 | 55.60 |   72.00 | 40.032000000000 | Conservative            | Bill Wiggin            |
+|            396 | 60.70 |   65.90 | 40.001300000000 | Labour                  | Siobhain McDonagh      |
++----------------+-------+---------+-----------------+-------------------------+------------------------+
