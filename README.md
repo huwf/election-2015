@@ -5,5 +5,4 @@ I collected the data from the BBC website and saved it into the database.  Some 
 
 - Turns out that only 84 MPs (12.9%) actually had this
 - Of cabinet members 9 out of 21 MPs (42.9%) did
-- 
 
